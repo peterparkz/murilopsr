@@ -1,24 +1,20 @@
 const links = [
   {
-    label: 'Github',
-    url: 'https://github.com/willianjusten'
+    label: 'Behance',
+    url: '/'
   },
   {
     label: 'Twitter',
-    url: 'https://twitter.com/Willian_justen'
-  },
-  {
-    label: 'Youtube',
-    url: 'https://www.youtube.com/WillianJustenCursos/?sub_confirmation=1'
+    url: '/'
   },
   {
     label: 'Instagram',
-    url: 'https://www.instagram.com/will_justen/'
+    url: '/'
   },
   {
-    label: 'Unsplash',
-    url: 'https://unsplash.com/@willianjusten'
-  }
+    label: 'Twitch',
+    url: '/'
+  },
 ]
 
 export default links
