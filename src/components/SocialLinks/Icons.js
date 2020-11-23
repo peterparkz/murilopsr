@@ -1,15 +1,13 @@
-import { Github } from '@styled-icons/boxicons-logos/Github'
+import { Behance } from '@styled-icons/boxicons-logos/Behance'
 import { Twitter } from '@styled-icons/boxicons-logos/Twitter'
-import { Youtube } from '@styled-icons/boxicons-logos/Youtube'
-import { Unsplash } from '@styled-icons/boxicons-logos/Unsplash'
+import { Twitch } from '@styled-icons/boxicons-logos/Twitch'
 import { Instagram } from '@styled-icons/boxicons-logos/Instagram'
 
 const Icons = {
-  Github: Github,
+  Behance: Behance,
   Twitter: Twitter,
-  Youtube: Youtube,
-  Unsplash: Unsplash,
-  Instagram: Instagram
+  Instagram: Instagram,
+  Twitch: Twitch,
 }
 
 export default Icons
