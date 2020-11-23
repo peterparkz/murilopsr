@@ -2,7 +2,7 @@
 layout: post
 date: 2020-10-31T02:47:09.000Z
 image: /assets/img/halloween.jpg
-title: Happy Halloween! Caça ao tesouro!
+title: Hui ui ui
 description: Tenha a chance de ganhar 1 curso de React Avançado de graça!
 introduction: Tenha a chance de ganhar 1 curso de React Avançado de graça!
 twitter_text: Tenha a chance de ganhar 1 curso de React Avançado de graça!
