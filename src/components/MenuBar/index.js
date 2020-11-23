@@ -53,7 +53,7 @@ const MenuBar = ({ setIsMenuOpen, isMenuOpen }) => {
           cover
           direction="right"
           bg={getThemeColor()}
-          title="Pesquisar"
+          title="Search"
           activeClassName="active"
         >
           <S.MenuBarItem onClick={() => GA.searchClickTrack()}>
